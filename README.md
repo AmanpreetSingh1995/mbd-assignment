@@ -1,3 +1,10 @@
+# After running the server on localhost you can do
+http://localhost:3000/ for home
+http://localhost:3000/login for login page
+http://localhost:3000/register for register page
+http://localhost:3000/404error for Page not found error page
+http://localhost:3000/forgotpassword for forgot password page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
